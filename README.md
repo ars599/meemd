@@ -1,4 +1,8 @@
 eemd-matlab
+30092017
+Author:   Po-Nan-Li Stanford University
+Org:      from https://github.com/leeneil
+History:  Try to convert for NCL use
 ===========
 
 EEMD family, Matlab version. PARFOR supported.
