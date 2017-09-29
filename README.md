@@ -1,7 +1,10 @@
 eemd-matlab
 30092017</b>
+
 Author:   Po-Nan-Li Stanford University</b>
+
 Org:      from https://github.com/leeneil</b>
+
 History:  Try to convert for NCL use</b>
 ===========
 
